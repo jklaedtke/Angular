@@ -1,0 +1,81 @@
+.back {
+    background-color: #223139;
+    z-index: 3;
+    margin-top: -18px;
+    margin-left: -14px; 
+    margin-right: -15px;
+    
+}
+
+.size {
+    width: 1050px;
+    height: 912px;
+}
+
+.Backgroundpic {
+    text-align: center;
+}
+
+.Backgroundpic img{
+    position: absolute;
+    left: 525px;
+    top: 235px;
+    width: 580px;
+}
+
+h1{
+    font-family: "Futura", sans-serif;
+    font-style: normal;
+    font-size: 2em;
+    color: white;
+    
+}
+
+div.fixed {
+    position: absolute;
+    left: 496px;
+    top: 200px;
+    width: 1000px;
+    
+   
+}
+
+.Button{
+    position: absolute;
+    left: 760px;
+    bottom: 300px;
+}
+
+text{
+    font-size: 1,5em;
+}
+
+Button >p {
+    font-size: 18px;
+    font-family: "Futura";
+
+    text-align: center;
+
+}
+
+ /*button with round corners*/
+.buttonRoundCorners {
+   background-color: #00A8AB;
+   border: none;
+   color: white;
+   padding-left: 40px;
+   padding-right: 40px;
+   text-align: center;
+   font-size: 30px;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 12px;
+   margin: 4px 2px;
+    border-radius: 30px;
+    align-content: center;
+
+    position:absolute;
+    transition: .5s ease;
+    top: 80%;
+    left: 42%;
+} 

@@ -1,0 +1,78 @@
+[{
+    "candidateId": 3,"gender": "male","degree": "Bachelor of Science","yearsofExperience": 0,"technicalSkills": "design","priorExperience": "Chevron","softSkills": "reading comprehension"
+  },
+  {
+    "candidateId": 2,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 22,"technicalSkills": "mathematics","priorExperience": "Chevron","softSkills": "team work"
+  },
+  {
+    "candidateId": 1,"gender": "female","degree": "general engeneer","yearsofExperience": 0,"technicalSkills": "mechanical knowledge","priorExperience": "Exon","softSkills": "team work"
+  },
+  {
+    "candidateId": 4,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 23,"technicalSkills": "design","priorExperience": "BP","softSkills": "reading comprehension"
+  },
+  {
+    "candidateId": 5,"gender": "male","degree": "mechnical engineer","yearsofExperience": 5,"technicalSkills": "mechanical knowledge","priorExperience": "Exon","softSkills": "cooperation"
+  },
+  {
+    "candidateId": 6,"gender": "female","degree": "mechnical engineer","yearsofExperience": 23,"technicalSkills": "mechanical knowledge","priorExperience": "BP","softSkills": "reading comprehension"
+  },
+  {
+    "candidateId": 7,"gender": "male","degree": "mechnical engineer","yearsofExperience": 21,"technicalSkills": "design","priorExperience": "Simens","softSkills": "team work"
+  },
+  {
+    "candidateId": 8,"gender": "male","degree": "mechatronics engineer","yearsofExperience": 14,"technicalSkills": "repairing","priorExperience": "BP","softSkills": "cooperation"
+  },
+  {
+    "candidateId": 9,"gender": "female","degree": "general engeneer","yearsofExperience": 6,"technicalSkills": "design","priorExperience": "Chevron","softSkills": "analytical thinking"
+  },
+  {
+    "candidateId": 10,"gender": "male","degree": "general engeneer","yearsofExperience": 9,"technicalSkills": "mechanical knowledge","priorExperience": "Valero","softSkills": "analytical thinking"
+  },
+  {
+    "candidateId": 11,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 24,"technicalSkills": "mechanical knowledge","priorExperience": "Daimler","softSkills": "cooperation"
+  },
+  {
+    "candidateId": 12,"gender": "male","degree": "mechnical engineer","yearsofExperience": 22,"technicalSkills": "repairing","priorExperience": "BP","softSkills":"attention to detail"
+  },
+  {
+    "candidateId": 13,"gender": "female","degree": "mechnical engineer","yearsofExperience": 6,"technicalSkills": "mechanical knowledge","priorExperience": "Shell","softSkills":"team work"
+  },
+  {"candidateId": 13,"gender": "female","degree": "mechnical engineer","yearsofExperience": 6,"technicalSkills": "mechanical knowledge","priorExperience": "Shell","softSkills":"team work"},
+  {"candidateId": 14,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 21,"technicalSkills": "mechanical knowledge","priorExperience": "Chevron","softSkills":"analytical thinking"},
+  {"candidateId": 15,"gender": "female","degree": "Bachelor of Science","yearsofExperience": 12,"technicalSkills": "repairing","priorExperience": "Exon","softSkills":"team work"},
+  {"candidateId": 16,"gender": "male","degree": "general engeneer","yearsofExperience": 7,"technicalSkills": "repairing","priorExperience": "Daimler","softSkills":"cooperation"},
+  {"candidateId": 17,"gender": "male","degree": "general engeneer","yearsofExperience": 13,"technicalSkills": "design","priorExperience": "Exon","softSkills":"reading comprehension"},
+  {"candidateId": 18,"gender": "male","degree": "mechnical engineer","yearsofExperience": 3,"technicalSkills": "mechanical knowledge","priorExperience": "Shell","softSkills":"analytical thinking"},
+  {"candidateId": 19,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 3,"technicalSkills": "mechanical knowledge","priorExperience": "Valero","softSkills":"reading comprehension"},
+  {"candidateId": 20,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 0,"technicalSkills": "repairing","priorExperience": "Simens","softSkills":"analytical thinking"},
+  {"candidateId": 21,"gender": "female","degree": "mechnical engineer","yearsofExperience": 25,"technicalSkills": "mathematics","priorExperience": "BP","softSkills":"analytical thinking"},
+  {"candidateId": 22,"gender": "male","degree": "mechnical engineer","yearsofExperience": 2,"technicalSkills": "design","priorExperience": "Simens","softSkills":"analytical thinking"},
+  {"candidateId": 23,"gender": "female","degree": "general engeneer","yearsofExperience": 15,"technicalSkills": "design","priorExperience": "Simens","softSkills":"analytical thinking"},
+  {"candidateId": 24,"gender": "female","degree": "general engeneer","yearsofExperience": 24,"technicalSkills": "mechanical knowledge","priorExperience": "Exon","softSkills":"cooperation"},
+  {"candidateId": 25,"gender": "female","degree": "general engeneer","yearsofExperience": 14,"technicalSkills": "repairing","priorExperience": "Shell","softSkills":"team work"},
+  {"candidateId": 26,"gender": "male","degree": "mechatronics engineer","yearsofExperience": 21,"technicalSkills": "design","priorExperience": "BMW","softSkills":"attention to detail"},
+  {"candidateId": 27,"gender": "male","degree": "Bachelor of Science","yearsofExperience": 8,"technicalSkills": "repairing","priorExperience": "BMW","softSkills":"attention to detail"},
+  {"candidateId": 28,"gender": "male","degree": "mechnical engineer","yearsofExperience": 23,"technicalSkills": "repairing","priorExperience": "Shell","softSkills":"reading comprehension"},
+  {"candidateId": 29,"gender": "female","degree": "Bachelor of Science","yearsofExperience": 22,"technicalSkills": "repairing","priorExperience": "Chevron","softSkills":"attention to detail"},
+  {"candidateId": 30,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 0,"technicalSkills": "mechanical knowledge","priorExperience": "Valero","softSkills":"reading comprehension"},
+  {"candidateId": 31,"gender": "male","degree": "Bachelor of Science","yearsofExperience": 4,"technicalSkills": "mechanical knowledge","priorExperience": "Simens","softSkills":"team work"},
+  {"candidateId": 32,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 3,"technicalSkills": "design","priorExperience": "Valero","softSkills":"cooperation"},
+  {"candidateId": 33,"gender": "female","degree": "Bachelor of Science","yearsofExperience": 3,"technicalSkills": "mathematics","priorExperience": "BMW","softSkills":"reading comprehension"},
+  {"candidateId": 34,"gender": "female","degree": "Bachelor of Science","yearsofExperience": 11,"technicalSkills": "design","priorExperience": "Daimler","softSkills":"cooperation"},
+  {"candidateId": 35,"gender": "male","degree": "mechatronics engineer","yearsofExperience": 22,"technicalSkills": "repairing","priorExperience": "BMW","softSkills":"cooperation"},
+  {"candidateId": 36,"gender": "male","degree": "Bachelor of Science","yearsofExperience": 17,"technicalSkills": "mathematics","priorExperience": "Valero","softSkills":"reading comprehension"},
+  {"candidateId": 37,"gender": "male","degree": "Bachelor of Science","yearsofExperience": 8,"technicalSkills": "design","priorExperience": "Chevron","softSkills":"attention to detail"},
+  {"candidateId": 38,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 10,"technicalSkills": "mechanical knowledge","priorExperience": "Valero","softSkills":"attention to detail"},
+  {"candidateId": 39,"gender": "female","degree": "mechnical engineer","yearsofExperience": 11,"technicalSkills": "mathematics","priorExperience": "Daimler","softSkills":"team work"},
+  {"candidateId": 40,"gender": "male","degree": "general engeneer","yearsofExperience": 20,"technicalSkills": "repairing","priorExperience": "Daimler","softSkills":"team work"},
+  {"candidateId": 41,"gender": "female","degree": "Bachelor of Science","yearsofExperience": 8,"technicalSkills": "mathematics","priorExperience": "Daimler","softSkills":"analytical thinking"},
+  {"candidateId": 42,"gender": "female","degree": "mechatronics engineer","yearsofExperience": 11,"technicalSkills": "mechanical knowledge","priorExperience": "Shell","softSkills":"cooperation"},
+  {"candidateId": 43,"gender": "female","degree": "Bachelor of Science","yearsofExperience": 18,"technicalSkills": "design","priorExperience": "BMW","softSkills":"attention to detail"},
+  {"candidateId": 44,"gender": "male","degree": "Bachelor of Science","yearsofExperience": 11,"technicalSkills": "mathematics","priorExperience": "Simens","softSkills":"attention to detail"},
+  {"candidateId": 45,"gender": "male","degree": "mechnical engineer","yearsofExperience": 1,"technicalSkills": "mathematics","priorExperience": "Chevron","softSkills":"reading comprehension"},
+  {"candidateId": 46,"gender": "male","degree": "general engeneer","yearsofExperience": 23,"technicalSkills": "mathematics","priorExperience": "Valero","softSkills":"attention to detail"},
+  {"candidateId": 47,"gender": "female","degree": "general engeneer","yearsofExperience": 11,"technicalSkills": "mathematics","priorExperience": "Exon","softSkills":"team work"},
+  {"candidateId": 48,"gender": "female","degree": "general engeneer","yearsofExperience": 20,"technicalSkills": "mathematics","priorExperience": "Shell","softSkills":"analytical thinking"},
+  {"candidateId": 49,"gender": "male","degree": "mechatronics engineer","yearsofExperience": 3,"technicalSkills": "repairing","priorExperience": "BP","softSkills":"cooperation"},
+  {"candidateId": 50,"gender": "male","degree": "mechnical engineer","yearsofExperience": 25,"technicalSkills": "mathematics","priorExperience": "BMW","softSkills":"attention to detail"}
+]

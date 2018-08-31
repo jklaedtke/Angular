@@ -1,0 +1,70 @@
+.nav-link {
+  font-size: large;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-family: Futura;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 53px;
+  padding-top: 7px;
+  margin-bottom: -10px;
+}
+
+h2{
+  margin-top: -10px;
+  padding-bottom: 7px; 
+  text-align: center;
+  color: white;
+  font-family: Futura;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21px;
+}
+
+.background{
+  background-color: #223139;
+}
+
+
+.sidenav {
+  height: 100%; /* 100% Full-height */
+  width: 10%; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  right: 90%;
+  background-color: #223139; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 120px; /* Place content 60px from the top */
+  transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  display: block;
+  transition: 0.3s;
+  color: white;
+  font-family: Futura;
+  font-size: 20px;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #00F5FD;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 10% 90%;
+  padding: 10px;
+}
+
+.man{
+  background: url("/assets/images/02_detail.png");
+}

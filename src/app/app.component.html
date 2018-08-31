@@ -1,0 +1,15 @@
+<!--The whole content below can be removed with the new code.-->
+<div class="background"><h1>{{pageTitle}}</h1>
+  <h2>{{subTitle}}</h2>
+</div>
+<div class="grid-container">
+  <div class="item1">
+    <div id="mySidenav" class="sidenav">
+      <a [routerLink]="['/welcome']">Home</a>
+      <a [routerLink]="['/candidates']">Candidates</a>
+    </div>
+  </div>
+  <div class="item2">
+   <router-outlet></router-outlet>
+  </div>
+</div>
